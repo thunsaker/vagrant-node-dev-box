@@ -69,7 +69,7 @@ vagrant package --output build/package.box
 
 ## TODO
 
-* Add  more serverSpec tests.
+* Add more ServerSpec tests.
 
 ## Contributing
 
